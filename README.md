@@ -9,4 +9,4 @@ I'm a recent college graduate with a bachelor's degree in computer science. I ha
 
 ### Projects
 
-[zach-gilbert/](https://www.github.com/zach-gilbert/) - Selenium practice using calculator.com's currency calcualtor
+- [zach-gilbert/](https://www.github.com/zach-gilbert/) - Selenium practice using calculator.com's currency calcualtor
