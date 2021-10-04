@@ -10,4 +10,4 @@ I'm a recent college graduate with a bachelor's degree in computer science. I ha
 ### Projects
 
 - [zach-gilbert/CurrencyCalculator-Test](https://github.com/zach-gilbert/CurrencyCalculator-Test) - Selenium practice using calculator.com's currency calculator
-- [zach-gilbert//DemoQA-Practice-1](https://github.com/zach-gilbert/DemoQA-Practice-1) - Selenium & TestNG practice using demoqa.com
+- [zach-gilbert/DemoQA-Practice-1](https://github.com/zach-gilbert/DemoQA-Practice-1) - Selenium & TestNG practice using demoqa.com
