@@ -9,6 +9,6 @@ I'm a recent college graduate with a bachelor's degree in computer science. I ha
 
 ### Projects
 
-- [zach-gilbert/zach-react-app](https://github.com/zach-gilbert/zach-react-app) - Project using React JS to create an easy to remember password
+- [zach-gilbert/react-password-generator](https://github.com/zach-gilbert/react-password-generator) - Project using React JS to create an easy to remember password
 - [zach-gilbert/CurrencyCalculator-Test](https://github.com/zach-gilbert/CurrencyCalculator-Test) - Selenium practice using calculator.com's currency calculator
 - [zach-gilbert/DemoQA-Practice-1](https://github.com/zach-gilbert/DemoQA-Practice-1) - Selenium & TestNG practice using demoqa.com
